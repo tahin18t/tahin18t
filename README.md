@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @tahin18t
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested to coding
+- 🌱 I’m currently learning HTML || CSS || Jaba
+- 💞️ I’m looking to collaborate a professional web developer.
 - 📫 How to reach me ...
-
-<!---
-tahin18t/tahin18t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: tahin218t@gmail.com
