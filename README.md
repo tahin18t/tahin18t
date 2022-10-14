@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tahin18t
 - 👀 I’m interested to coding
-- 🌱 I’m currently learning HTML || CSS || Jaba
-- 💞️ I’m looking to collaborate a professional web developer.
+- 🌱 I’m currently learning <del> HTML & CSS & Jaba </del>
+- 🌱 I’m currently learning C Language
+- 💞️ I’m looking to collaborate a professional <del>web</del> developer.
 - 📫 How to reach me ...
-Email: tahin218t@gmail.com
+Email: tahin18t@gmail.com
