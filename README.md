@@ -10,13 +10,13 @@ I'm a passionate Computer Science student at Daffodil International University, 
 
 💻 Skilled in MERN Stack (MongoDB, Express.js, React, Node.js)
 
-🔧 Experienced with Java, C++, Python, MySQL, and Shell Scripting
+🔧 Experienced with C, C++, Java, Python, JavaScript & MySQL
 
 🧩 Strong foundation in Data Structures, Algorithms, and OOP
 
 🏆 Section Champion in Take Off Programming Contest (DIU)
 
-🌱 Currently learning DevOps and system design basics
+🌱 Currently trying to build some web application
 
 🤝 Open to collaboration on web development and open-source projects
 
@@ -25,8 +25,8 @@ I'm a passionate Computer Science student at Daffodil International University, 
 **Frontend:** HTML, CSS, Bootstrap, Tailwind, React
 **Backend:** Node.js, Express.js
 **Database:** MongoDB, MySQL
-**Tools:** GitHub, Postman, PowerPoint, (Basic: Figma, Excel, DevOps)
-**Languages:** JavaScript, Java, C++, Python
+**Tools:** GitHub, Postman, (Basic: Figma, DevOps)
+**Languages:** C, C++, Java, Python, JavaScript
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
@@ -46,9 +46,6 @@ I'm a passionate Computer Science student at Daffodil International University, 
 
 ✉️ Email: tahin18t@gmail.com
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 
 ### ⚡ Fun Fact
 
