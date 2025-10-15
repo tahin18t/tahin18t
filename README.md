@@ -23,9 +23,13 @@ I'm a passionate Computer Science student at Daffodil International University, 
 ### 🧠 Tech Stack
 
 **Frontend:** HTML, CSS, Bootstrap, Tailwind, React
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB, MySQL
+
 **Tools:** GitHub, Postman, (Basic: Figma, DevOps)
+
 **Languages:** C, C++, Java, Python, JavaScript
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
