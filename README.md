@@ -1,10 +1,10 @@
-Hi, I'm Shahriar Sakhawat Tahin 👋
+# Hi, I'm Shahriar Sakhawat Tahin 👋
 
-🚀 Aspiring MERN Stack Developer | Competitive Programmer | Problem Solver
+**🚀 Aspiring MERN Stack Developer | Competitive Programmer | Problem Solver**
 
 I'm a passionate Computer Science student at Daffodil International University, currently in my final year. I love building full-stack web applications, exploring new technologies, and solving real-world problems through code.
 
-💡 About Me
+### 💡 About Me
 
 🎓 Pursuing B.Sc. in Computer Science and Engineering
 
@@ -20,28 +20,32 @@ I'm a passionate Computer Science student at Daffodil International University, 
 
 🤝 Open to collaboration on web development and open-source projects
 
-🧠 Tech Stack
+### 🧠 Tech Stack
 
-Frontend: HTML, CSS, Bootstrap, Tailwind, React
-Backend: Node.js, Express.js
-Database: MongoDB, MySQL
-Tools: GitHub, Postman, PowerPoint, (Basic: Figma, Excel, DevOps)
-Languages: JavaScript, Java, C++, Python
+**Frontend:** HTML, CSS, Bootstrap, Tailwind, React
+**Backend:** Node.js, Express.js
+**Database:** MongoDB, MySQL
+**Tools:** GitHub, Postman, PowerPoint, (Basic: Figma, Excel, DevOps)
+**Languages:** JavaScript, Java, C++, Python
 
-📂 Featured Projects
+### 📂 Featured Projects
 
-ToDoList (Backend): CRUD-based task management API using Node.js, Express.js & MongoDB
+**ToDoList (Backend):** CRUD-based task management API using Node.js, Express.js & MongoDB
 
-E-commerce Backend: RESTful API with OTP authentication, SSLCommerz integration & invoice generation
+**E-commerce Backend:** RESTful API with OTP authentication, SSLCommerz integration & invoice generation
 
-ISP Management System (Java): OOP-based desktop application with MySQL database connectivity
+**ISP Management System (Java):** OOP-based desktop application with MySQL database connectivity
 
-📫 Connect With Me
+### 📫 Connect With Me
 
-💼 LinkedIn
+💼 [LinkedIn](https://linkedin.com/in/tahin18t)
 
 ✉️ Email: tahin18t@gmail.com
 
-⚡ Fun Fact
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+
+### ⚡ Fun Fact
 
 I believe good code is like good writing — clear, structured, and made to be understood.
