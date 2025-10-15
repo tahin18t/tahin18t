@@ -27,6 +27,9 @@ I'm a passionate Computer Science student at Daffodil International University, 
 **Database:** MongoDB, MySQL
 **Tools:** GitHub, Postman, PowerPoint, (Basic: Figma, Excel, DevOps)
 **Languages:** JavaScript, Java, C++, Python
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 
 ### 📂 Featured Projects
 
