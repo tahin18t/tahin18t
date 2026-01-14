@@ -55,7 +55,7 @@
 ## 🏆 Featured Projects
 
 - **ToDoList (Backend)** – CRUD-based task management API with **task filtering, deadlines & priority**  
-- **E-commerce Backend** – RESTful API with **OTP authentication**, SSLCommerz payment integration & invoice generation  
+- **E-commerce ** – RESTful API with **OTP authentication**, SSLCommerz payment integration & invoice generation. Frontend developed by react, tailwind and daisyUI.
 - **ISP Management System (Java)** – OOP-based desktop application with **MySQL database connectivity**  
 
 ---
